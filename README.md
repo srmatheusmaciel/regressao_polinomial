@@ -20,7 +20,7 @@ The dataset used for training is located in `datasets/dataset_salario.csv`, cont
 ## Project Structure
 
 ```
-ia-para-produtos-regressao-polinomial/
+regressao_polinomial/
 │
 ├── datasets/
 │   └── dataset_salario.csv
